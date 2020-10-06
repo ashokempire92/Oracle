@@ -1,1 +1,1 @@
-create table test(a varchar2(20))
+create table test(a varchar2(20), b number)
