@@ -1,0 +1,1 @@
+create table test(a varchar2(20))
